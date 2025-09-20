@@ -31,11 +31,7 @@ This repo serves as:
 
 ## 🛠️ How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/python-basics-learning.git
-   ```
+1. Clone the repository.
 2. Open the folder and explore the code examples and practice questions.
 
 ## 🌱 Next Steps
@@ -48,5 +44,3 @@ This repo serves as:
 This repository is primarily for personal learning, but suggestions and improvements are welcome!
 
 ---
-
-Would you like me to **structure it like a study log** (showing each topic + practice questions completed), or keep it as a clean summary like above?
