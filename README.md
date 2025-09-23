@@ -26,11 +26,7 @@ You’ll find each section organized so you can learn alongside me:
 
 
 ## 🚀 How to Use
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
+1. Clone this repository
 2. Explore each folder in order — they’re arranged from basic to advanced topics.  
 3. Open the `.ipynb` or `.py` files to view code and explanations.  
 4. Run code examples in Jupyter Notebook, VS Code, or Google Colab to practice hands-on.  
